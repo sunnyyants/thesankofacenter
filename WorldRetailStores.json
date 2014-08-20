@@ -1,0 +1,59 @@
+[
+    {
+        "country": "Australia",
+        "stores":[
+            {
+                "name":"Safari Fusion",
+                "address": "Wattletree Road Post Office, Malvern East VIC 31451 Australia",
+                "phone":"+61(0)416-037117",
+                "theyCarry":"Queen Patch Blankets"
+            }
+        ]
+    },
+    {
+        "country": "Canada",
+        "stores":[
+            {
+                "name":"Murdoch’s Gem Shop",
+                "address": "Main Street, Whitehorse YT Y1A 2B2, Canada",
+                "phone":"(867)667-7403",
+                "theyCarry":"pot holders, oven mittens, Aprons"
+            },
+            {
+                "name":"Tommy & Lefebvre Inc.",
+                "address": "464 Bank St., Ottawa, ON Canada K2P 1Z3",
+                "phone":"(613)-236-9731",
+                "theyCarry":"Messenger Bags, Beach Bags, Yoga Mats, Pillow Cover"
+            }
+        ]
+    },
+    {
+        "country": "Japan",
+        "stores":[
+            {
+                "name":"Lantiki",
+                "address": "5-1-20 Kaigan St, Chuo-ku, Kobe Japan",
+                "phone":"(81)78-371-3939",
+                "theyCarry":"Traditional “Sankofa” Bracelet, Men’s Boxer, Patch Neck Scarfs, Yoga/Casual Wear Set"
+            },
+            {
+                "name":"Saws Company Ltd",
+                "address": "1-29-6 #202 Aobadai Meguro-Ku, Tokyo Japan 153-0042",
+                "phone":"(81)3-5724-5712",
+                "theyCarry":"Natural-Top Strapless dress, Strapless Dress, Miranda Dress, Santa Monica Dress, On the Go Bags, Yoga mats"
+            }
+        ]
+    },
+    {
+        "country": "Switzerland",
+        "stores":[
+            {
+                "name":"Pedale",
+                "address": "16 Richenseestr. Ermensee Lu, Switzerland, CH-6294",
+                "phone":"+ 41-41-917-25-70",
+                "theyCarry":"Recycled African Shower Curtains, Vintage Handbags"
+            }
+        ]
+    }
+
+]
